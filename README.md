@@ -20,11 +20,11 @@ add 1 min
 
 The arcade button starts / stops the clock.  If the timer has been reset to 0, it will count up.  Otherwise, it will count down from the specified time.
 
-####Full Project Setup
+#### Full Project Setup
 ![alt text](https://github.com/codersblock/customclock/blob/master/screens/full.jpg "full project setup")
 
-####Breadboard
+#### Breadboard
 ![alt text](https://github.com/codersblock/customclock/blob/master/screens/breadboard.jpg "breadboard")
 
-####Microprocessor
+#### Microprocessor
 ![alt text](https://github.com/codersblock/customclock/blob/master/screens/micro.jpg "microprocessor")
